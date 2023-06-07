@@ -67,6 +67,7 @@ nav {
   justify-content: space-between;
   border: black 1px solid;
   margin: auto;
+  margin-bottom: 0;
   padding: 1.5rem;
 }
 
@@ -81,8 +82,6 @@ nav {
 }
 
 .table-ing {
-  border: red 1px solid;
-
   max-height: 20rem;
   margin-top: 3rem;
 }
@@ -101,8 +100,8 @@ nav {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    border: black 1px solid;
-    width: 85%;
+    /* border: black 1px solid; */
+
     margin: auto;
     padding: 1.5rem;
   }
@@ -120,7 +119,6 @@ nav {
   }
 
   .table-ing {
-    border: red 1px solid;
     max-height: 30rem;
     margin-left: 3rem;
     max-width: 25%;
