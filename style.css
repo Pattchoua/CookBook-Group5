@@ -101,7 +101,6 @@ nav {
     flex-direction: row;
     justify-content: space-between;
     /* border: black 1px solid; */
-
     margin: auto;
     padding: 1.5rem;
   }
@@ -116,6 +115,7 @@ nav {
     margin-left: 1.5rem;
     padding: 0rem 3rem 3rem 2rem;
     font-size: 1.2rem;
+    max-width: 70%;
   }
 
   .table-ing {
