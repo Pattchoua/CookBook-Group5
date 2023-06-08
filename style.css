@@ -12,8 +12,8 @@ body {
 }
 
 /* nav*/
-nav {
-}
+/* nav {
+} */
 
 .container-fluid {
   display: flex;
@@ -101,6 +101,10 @@ height: 500px;
   font-size: 0.9rem;
 }
 
+/* .dessert:hover{
+  content: 'Click Me'
+} */
+
 .table-ing {
   max-height: 20rem;
   margin-top: 3rem;
@@ -112,8 +116,8 @@ height: 500px;
   margin-bottom: 2rem;
 }
 
-.rec-inst {
-}
+/* .rec-inst {
+} */
 
 @media only screen and (min-width: 720px) {
   .table-container {
@@ -150,10 +154,10 @@ height: 500px;
     margin-bottom: 2rem;
   }
 
-  .rec-inst {
+  /* .rec-inst {
     /* padding: 0.5rem; */
-  }
-}
+  /* } */
+/* } */ 
 
 /* main*/
 
