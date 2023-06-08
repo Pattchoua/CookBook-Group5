@@ -68,6 +68,12 @@ height: 500px;
   filter: brightness(0,8);
   -webkit-filter: brightness(0,8);
 }
+/* recipe1-Ndole*/
+.w-item {
+  height: 300px;
+  }
+
+
 
 @media (max-width: 600px) {
   .card:hover {
@@ -164,3 +170,8 @@ height: 500px;
 /* footer*/
 
 /* footer*/
+
+  /* Recipe1-Ndole*/
+
+
+  /* Recipe1-Ndole*/
