@@ -12,6 +12,10 @@ body {
 }
 
 /* nav*/
+.navbar-nav .nav-link:hover {
+  color: white;
+  background-color: white;
+   }
 /* nav {
 } */
 
@@ -51,11 +55,11 @@ height: 500px;
 }
 
 .card:hover {
-  transform: scale(1.15);
-  -webkit-transform: scale(1.15);
-  -moz-transform: scale(1.15);
-  -ms-transform: scale(1.15);
-  -o-transform: scale(1.15);
+  transform: scale(1.05);
+  -webkit-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  -ms-transform: scale(1.05);
+  -o-transform: scale(1.05);
 }
 
 .text-card {
@@ -63,17 +67,11 @@ height: 500px;
   padding-top: 3rem;
 }
 .a-img {
-  height: 250px;
+  height: 200px;
   object-fit: cover;
   filter: brightness(0,8);
   -webkit-filter: brightness(0,8);
 }
-/* recipe1-Ndole*/
-.w-item {
-  height: 300px;
-  }
-
-
 
 @media (max-width: 600px) {
   .card:hover {
@@ -122,6 +120,16 @@ height: 500px;
   margin-bottom: 2rem;
 }
 
+/*footer*/
+.horizontal-links li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.horizontal-links li:last-child {
+  margin-right: 0;
+}
+
 /* .rec-inst {
 } */
 
@@ -168,7 +176,10 @@ height: 500px;
 /* main*/
 
 /* footer*/
-
+.footer-container .footer-link:hover {
+  color: black;
+  background-color: black;
+   }
 /* footer*/
 
   /* Recipe1-Ndole*/
